@@ -1,0 +1,22 @@
+# Raw and downloaded datasets
+data/raw/
+data/downloads/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter and local configuration
+.ipynb_checkpoints/
+.env
+
+# Generated model artifacts
+models/
+*.joblib
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
